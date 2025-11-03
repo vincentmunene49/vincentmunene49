@@ -1,10 +1,7 @@
  Hi there, I'm vincent 👋
 
 
-- 🔭 I’m currently working on Android application development
-- 👯 I’m looking to collaborate on Android applications
-- 🤔 I’m looking for help with Rising Opportunities
-- 💬 Ask me about Android development technologies
+- 🔭 I’m a FlutterFlow, Java (Springboot) and Android Developer
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-munene-35319822a/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/VincentNesh) or [Gmail](mailto:munenevincent49@gmail.com)
 
 Git Hub stats:
